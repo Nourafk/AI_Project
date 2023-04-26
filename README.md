@@ -5,8 +5,9 @@ Project Phase #1
 
 Section No. 60121 - Group No. 6
 
-Name - ID
-Noura AlKhorayef - 441201063 , Shoug AlShaybani	- 441200872, Fay AlShalwi	- 441200559, Shahad AlShaikh - 441201213
+Name - ID\
+
+Noura AlKhorayef - 441201063, Shoug AlShaybani	- 441200872, Fay AlShalwi	- 441200559, Shahad AlShaikh - 441201213
 
 Our dataset indicates whether or not a particular internet user clicked on an advertisement. We chose this dataset because we are interested in knowing what
 kinds of advertisements are more likely to get clicked on and by which ages and in which countries. As this also will help the advertising companies know how 
