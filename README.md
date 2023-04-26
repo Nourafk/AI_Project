@@ -6,7 +6,6 @@ Project Phase #1
 Section No. 60121 - Group No. 6
 
 Name - ID
-
 Noura AlKhorayef - 441201063\
 Shoug AlShaybani	- 441200872\
 Fay AlShalwi	- 441200559\
